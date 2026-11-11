@@ -1,0 +1,1292 @@
+{
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\annotate_preview_tool.py": [
+1789733268373315200,
+3947,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\ansi_strip.py": [
+1789733268375804000,
+4341,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\apply_layout_tool.py": [
+1789733268375804000,
+2335,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval.py": [
+1789733268376788800,
+69531,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval_context.py": [
+1789733268376788800,
+15469,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval_detection.py": [
+1789733268377788100,
+87345,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval_floors.py": [
+1789733268377788100,
+9676,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval_gateway_wait.py": [
+1789733268377788100,
+11868,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval_human_wait.py": [
+1789733268378790800,
+8416,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval_prompt.py": [
+1789733268378790800,
+17632,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\approval_smart.py": [
+1789733268379793700,
+7282,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\arg_coercion.py": [
+1789733268379793700,
+9068,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\async_delegation.py": [
+1789733268380792400,
+58050,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\audio_container.py": [
+1789733268383793400,
+2674,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\binary_extensions.py": [
+1789733268384798600,
+3952,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\blueprints.py": [
+1789733268384798600,
+9210,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\bot_failure_reasons.py": [
+1789733268384798600,
+4051,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\bot_live_delivery.py": [
+1789733268386705500,
+10945,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\bot_mode_dm.py": [
+1789733268387769200,
+37817,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\bot_mode_probe.py": [
+1789733268387769200,
+18814,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\bot_relay.py": [
+1789733268388714900,
+27086,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_camofox.py": [
+1789733268389713700,
+28441,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_camofox_state.py": [
+1789733268389713700,
+1566,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_cdp_tool.py": [
+1789733268389713700,
+22553,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_dialog_tool.py": [
+1789733268389713700,
+5405,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_extension_router.py": [
+1789733268390711400,
+6355,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_lightpanda.py": [
+1789733268390711400,
+13117,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_supervisor.py": [
+1789733268390711400,
+27603,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_supervisor_dialogs.py": [
+1789733268390711400,
+15371,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_supervisor_frames.py": [
+1789733268391713600,
+8335,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool.py": [
+1789733268392735400,
+68820,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_cdp.py": [
+1789733268392735400,
+6380,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_cloud.py": [
+1789733268392735400,
+12295,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_eval_policy.py": [
+1789733268393741800,
+8639,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_install.py": [
+1789733268393741800,
+16031,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_lifecycle.py": [
+1789733268393741800,
+32170,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_lightpanda_fallback.py": [
+1789733268393741800,
+10116,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_origin.py": [
+1789733268394740900,
+2913,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_real_profile.py": [
+1789733268394740900,
+16181,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_session.py": [
+1789733268394740900,
+30545,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_snapshot.py": [
+1789733268395741600,
+5350,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_tool_vision.py": [
+1789733268395741600,
+7245,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_use_cli.py": [
+1789733268396741900,
+42780,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\browser_vault_tool.py": [
+1789733268396741900,
+36657,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\budget_config.py": [
+1789733268396741900,
+5663,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\checkpoint_manager.py": [
+1789733268396741900,
+62645,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\checkpoint_manager_profile_rename.py": [
+1789733268398167000,
+5537,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\clarify_gateway.py": [
+1789733268398167000,
+14074,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\clarify_tool.py": [
+1789733268398167000,
+15753,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\close_preview_tool.py": [
+1789733268398167000,
+2571,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\close_terminal_tool.py": [
+1789733268398167000,
+2056,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\code_execution_env.py": [
+1789733268399559000,
+14325,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\code_execution_rpc.py": [
+1789733268399559000,
+8696,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\code_execution_tool.py": [
+1789733268400563100,
+48939,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\code_kernel.py": [
+1789733268400866500,
+38064,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\code_kernel_remote.py": [
+1789733268400866500,
+18876,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\computer_use\\tool.py": [
+1789733268406230600,
+55961,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\computer_use_tool.py": [
+1789733268406736100,
+1104,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\connectors\\tool.py": [
+1789733268411744100,
+6000,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\credential_files.py": [
+1789733268411744100,
+17937,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\cronjob_job_args.py": [
+1789733268412744100,
+20316,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\cronjob_prompt_scan.py": [
+1789733268412744100,
+7861,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\cronjob_tools.py": [
+1789733268412744100,
+59797,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\daemon_pool.py": [
+1789733268413745100,
+3091,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\debug_helpers.py": [
+1789733268413745100,
+2187,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool.py": [
+1789733268414744000,
+42984,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_child_run.py": [
+1789733268414744000,
+54285,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_config.py": [
+1789733268414744000,
+30271,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_dispatch.py": [
+1789733268415742200,
+26030,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_progress.py": [
+1789733268415742200,
+23487,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_registry.py": [
+1789733268415742200,
+15610,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_results.py": [
+1789733268416741500,
+20948,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_tasks.py": [
+1789733268416741500,
+8343,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegate_tool_toolsets.py": [
+1789733268416741500,
+5882,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegation_live_log.py": [
+1789733268416741500,
+13883,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\delegation_output_schema.py": [
+1789733268417742300,
+5722,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\desktop_ui.py": [
+1789733268418247300,
+2770,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\discord_tool.py": [
+1789733268418247300,
+31472,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\drive_preview_tool.py": [
+1789733268418247300,
+7033,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\env_passthrough.py": [
+1789733268419252400,
+6793,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\env_probe.py": [
+1789733268419252400,
+11445,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\fal_common.py": [
+1789733268426823600,
+7548,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\feishu_doc_tool.py": [
+1789733268427824100,
+3603,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\feishu_drive_tool.py": [
+1789733268427824100,
+8198,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\feishu_lark.py": [
+1789733268427824100,
+3248,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_operations.py": [
+1789733268428825200,
+77833,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_operations_common.py": [
+1789733268428825200,
+10396,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_operations_lint.py": [
+1789733268429825400,
+13701,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_operations_search.py": [
+1789733268429825400,
+49937,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_state.py": [
+1789733268430821400,
+9941,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_tools.py": [
+1789733268430821400,
+69425,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_tools_paths.py": [
+1789733268431826800,
+8884,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_tools_read_tracking.py": [
+1789733268431826800,
+14800,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\file_tools_write_guards.py": [
+1789733268432824600,
+29057,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\focus_pane_tool.py": [
+1789733268432824600,
+2631,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\fuzzy_match.py": [
+1789733268432824600,
+28350,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\homeassistant_tool.py": [
+1789733268433822400,
+14190,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\hook_output_spill.py": [
+1789733268433822400,
+4878,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\image_generation_catalog.py": [
+1789733268433822400,
+19998,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\image_generation_managed.py": [
+1789733268433822400,
+3619,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\image_generation_tool.py": [
+1789733268435329700,
+44296,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\image_source.py": [
+1789733268435329700,
+14590,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\interpreter_shutdown.py": [
+1789733268435329700,
+1225,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\interrupt.py": [
+1789733268435329700,
+5371,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\kanban_tools.py": [
+1789733268436337000,
+52273,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\kanban_tools_schemas.py": [
+1789733268437338100,
+22729,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\kanban_toolset_context.py": [
+1789733268437338100,
+1013,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\lazy_deps.py": [
+1789733268437338100,
+38291,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\managed_gateway_auth.py": [
+1789733268438340500,
+2896,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\managed_tool_gateway.py": [
+1789733268438340500,
+16739,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_dashboard_oauth.py": [
+1789733268438340500,
+5665,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_death_supervisor.py": [
+1789733268439337900,
+9341,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_oauth.py": [
+1789733268440339200,
+63464,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_oauth_device.py": [
+1789733268440339200,
+10484,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_oauth_manager.py": [
+1789733268440339200,
+24164,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_oauth_provider.py": [
+1789733268440339200,
+23494,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_schema_cache.py": [
+1789733268441721100,
+5175,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_agent.py": [
+1789733268442729700,
+14029,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_common.py": [
+1789733268442729700,
+5746,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_config.py": [
+1789733268442729700,
+17404,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_content.py": [
+1789733268443728600,
+11131,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_discovery.py": [
+1789733268443728600,
+35487,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_errors.py": [
+1789733268444730100,
+23528,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_handlers.py": [
+1789733268444730100,
+38358,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_health.py": [
+1789733268444730100,
+16687,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_lifecycle.py": [
+1789733268445725500,
+17512,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_loop.py": [
+1789733268445725500,
+13304,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_registration.py": [
+1789733268445725500,
+29181,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_sampling.py": [
+1789733268446727100,
+18431,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_schema.py": [
+1789733268446727100,
+13351,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_scope.py": [
+1789733268446727100,
+3012,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_server_run.py": [
+1789733268446727100,
+27633,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\mcp_tool_transport.py": [
+1789733268447727200,
+36607,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\memory_tool.py": [
+1789733268447727200,
+20728,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\memory_tool_store.py": [
+1789733268447727200,
+25022,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\microsoft_graph_auth.py": [
+1789733268448726300,
+7438,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\microsoft_graph_client.py": [
+1789733268448726300,
+10885,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\neutts_synth.py": [
+1789733268455309600,
+3134,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\open_preview_tool.py": [
+1789733268455309600,
+3854,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\openrouter_client.py": [
+1789733268456313900,
+1587,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\osv_check.py": [
+1789733268456313900,
+10589,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\patch_parser.py": [
+1789733268456313900,
+20376,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\path_security.py": [
+1789733268457313500,
+1508,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\plugin_guard.py": [
+1789733268457313500,
+15060,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\preview_tool.py": [
+1789733268457313500,
+3535,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\process_registry.py": [
+1789733268458311700,
+127999,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\process_registry_checkpoint.py": [
+1789733268458311700,
+6124,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\process_registry_notifications.py": [
+1789733268458311700,
+20993,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\process_registry_results.py": [
+1789733268459311900,
+4596,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\project_tools.py": [
+1789733268459311900,
+6450,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\pty_query_responder.py": [
+1789733268459311900,
+4709,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\react_to_message_tool.py": [
+1789733268459311900,
+6336,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\read_extract.py": [
+1789733268460311300,
+25189,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\read_preview_tool.py": [
+1789733268460311300,
+3262,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\read_terminal_tool.py": [
+1789733268460311300,
+3275,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\read_window_tool.py": [
+1789733268460311300,
+2613,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\schema_sanitizer.py": [
+1789733268461314100,
+19659,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\self_repo_guard.py": [
+1789733268461314100,
+26042,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\send_message_senders.py": [
+1789733268462315000,
+35757,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\send_message_targets.py": [
+1789733268462315000,
+11099,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\send_message_tool.py": [
+1789733268463314100,
+39570,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\session_search_tool.py": [
+1789733268463314100,
+42773,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\shell_heredoc.py": [
+1789733268463314100,
+8788,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skill_ledger.py": [
+1789733268464313900,
+18674,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skill_linter.py": [
+1789733268464313900,
+11118,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skill_manager_batch.py": [
+1789733268464313900,
+14951,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skill_manager_guards.py": [
+1789733268464313900,
+15422,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skill_manager_tool.py": [
+1789733268465313800,
+47129,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skill_provenance.py": [
+1789733268465313800,
+1885,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skill_usage.py": [
+1789733268465313800,
+37165,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skillevaluator_scan.py": [
+1789733268466314200,
+7363,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_ast_audit.py": [
+1789733268466314200,
+4142,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_guard.py": [
+1789733268466314200,
+54234,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub.py": [
+1789733268466314200,
+17714,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_clawhub.py": [
+1789733268466314200,
+27377,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_github.py": [
+1789733268467822200,
+27053,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_install.py": [
+1789733268467822200,
+14728,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_models.py": [
+1789733268468996700,
+14518,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_official.py": [
+1789733268468996700,
+19211,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_search.py": [
+1789733268470005900,
+12769,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_skillssh.py": [
+1789733268470005900,
+17634,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_hub_sources.py": [
+1789733268470727000,
+20944,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_sync.py": [
+1789733268470727000,
+23443,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_sync_bundled_ops.py": [
+1789733268472006700,
+10119,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_sync_client.py": [
+1789733268472006700,
+27582,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_sync_client_org.py": [
+1789733268472006700,
+14522,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_sync_client_wire.py": [
+1789733268472006700,
+17289,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_sync_optional.py": [
+1789733268473006600,
+11390,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_tool.py": [
+1789733268473006600,
+40128,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_tool_dedup.py": [
+1789733268473006600,
+3786,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_tool_plugin.py": [
+1789733268474005300,
+8474,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\skills_tool_setup.py": [
+1789733268475005400,
+7277,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\slash_confirm.py": [
+1789733268475005400,
+4839,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\spill_safety.py": [
+1789733268475005400,
+3063,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\subagent_worktree.py": [
+1789733268475005400,
+9397,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_hints.py": [
+1789733268476005000,
+8388,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_scope.py": [
+1789733268476005000,
+9966,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool.py": [
+1789733268476005000,
+69267,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool_backends.py": [
+1789733268477004600,
+19602,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool_background.py": [
+1789733268477004600,
+13652,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool_config.py": [
+1789733268477004600,
+4896,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool_guards.py": [
+1789733268478004600,
+11522,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool_lifecycle.py": [
+1789733268478004600,
+13516,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool_result.py": [
+1789733268478004600,
+15042,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\terminal_tool_sudo.py": [
+1789733268479005500,
+22501,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\thread_context.py": [
+1789733268479005500,
+3381,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\threat_patterns.py": [
+1789733268479005500,
+10008,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tip_tool.py": [
+1789733268479005500,
+3222,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tirith_security.py": [
+1789733268480004900,
+25813,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\todo_tool.py": [
+1789733268480004900,
+13102,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tool_backend_helpers.py": [
+1789733268480004900,
+12545,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tool_output_limits.py": [
+1789733268480004900,
+2710,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tool_output_truncate.py": [
+1789733268481024800,
+1448,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tool_result_storage.py": [
+1789733268481024800,
+14718,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tool_search.py": [
+1789733268481024800,
+31572,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tool_search_catalog.py": [
+1789733268481024800,
+13445,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tool_search_validation.py": [
+1789733268482082200,
+8609,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tour_tool.py": [
+1789733268482082200,
+6589,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\transcription_audio.py": [
+1789733268482082200,
+14540,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\transcription_cloud.py": [
+1789733268482082200,
+23384,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\transcription_command.py": [
+1789733268483007400,
+14307,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\transcription_common.py": [
+1789733268483007400,
+4140,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\transcription_local.py": [
+1789733268483007400,
+15789,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\transcription_tools.py": [
+1789733268484005600,
+31227,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_command_provider.py": [
+1789733268484005600,
+15550,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_streaming.py": [
+1789733268484005600,
+15214,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_text_normalize.py": [
+1789733268485013900,
+10598,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool.py": [
+1789733268485013900,
+37085,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool_delivery.py": [
+1789733268485013900,
+19944,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool_lifecycle.py": [
+1789733268487105400,
+8070,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool_local.py": [
+1789733268487686700,
+9524,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool_openai.py": [
+1789733268490681600,
+7872,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool_plugins.py": [
+1789733268491684400,
+4576,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool_providers.py": [
+1789733268492667700,
+30918,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\tts_tool_speaker.py": [
+1789733268492667700,
+16419,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\url_safety.py": [
+1789733268493766800,
+30015,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\video_generation_tool.py": [
+1789733268494672800,
+17307,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\vision_tools.py": [
+1789733268494672800,
+53430,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\vision_tools_history_budget.py": [
+1789733268494672800,
+5756,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\vision_tools_image_prep.py": [
+1789733268495672300,
+14703,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\voice_client_config.py": [
+1789733268496672200,
+10553,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\voice_live.py": [
+1789733268496672200,
+9332,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\voice_mode.py": [
+1789733268496672200,
+73193,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\voice_mode_transcript.py": [
+1789733268497671000,
+5530,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\wake_word.py": [
+1789733268497671000,
+37289,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\wake_word_engines.py": [
+1789733268497671000,
+12022,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\web_result_cache.py": [
+1789733268502495900,
+13511,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\web_tools.py": [
+1789733268502495900,
+28615,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\web_tools_extract.py": [
+1789733268502495900,
+11497,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\web_tools_rescue.py": [
+1789733268503600900,
+6197,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\web_tools_truncate.py": [
+1789733268503600900,
+8375,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\website_policy.py": [
+1789733268503600900,
+8873,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\working_diff.py": [
+1789733268503600900,
+4440,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\write_approval.py": [
+1789733268504611000,
+12417,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\x_search_tool.py": [
+1789733268504611000,
+14979,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\xai_http.py": [
+1789733268504611000,
+10541,
+false
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\xai_video_tools.py": [
+1789733268505609900,
+4599,
+true
+],
+"D:\\IT\\YANGI_IT\\PRACTICES\\hermes-standalone\\hermes-agent\\tools\\yuanbao_tools.py": [
+1789733268505609900,
+21901,
+true
+]
+}
